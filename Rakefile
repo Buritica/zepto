@@ -16,6 +16,8 @@ ZEPTO_COMPONENTS = [
   # 'fx_methods',
   'ajax',
   'form',
+  'callbacks',
+  'deferred',
   # 'assets',
   # 'data',
   'touch',
